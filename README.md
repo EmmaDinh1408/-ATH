@@ -4,7 +4,7 @@
 
 - **Tên môn:** Machine Learning
 - **Mã môn:** CO2004
-- **Học kỳ:** II
+- **Học kỳ:** I
 - **Năm học:** 2025-2026
 - **Trường:** Đại học Bách Khoa, ĐHQG-HCM
 
